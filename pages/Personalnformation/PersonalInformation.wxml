@@ -1,0 +1,6 @@
+<!--pages/Personalnformation/PersonalInformation.wxml-->
+<view>
+    <image style="width: 100%; height: 793rpx"  lazy-load="{{ false }}"  src="/images/page-2-01.png" alt="page 02 01  background" />
+    sadsad
+</view>
+

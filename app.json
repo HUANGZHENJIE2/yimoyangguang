@@ -1,0 +1,17 @@
+{
+    "pages": [
+      
+        "pages/login/login",
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/Personalnformation/PersonalInformation"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#ffc26e",
+        "navigationBarTitleText": "一抹阳光CBT",
+        "navigationBarTextStyle": "white"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
